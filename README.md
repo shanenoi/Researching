@@ -7,5 +7,5 @@
 
 - [x] Statistic & Probability
 - [x] NLP
-- [ ] CV
+- [x] CV
 - [x] DL/ML & Moreover...
