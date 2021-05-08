@@ -33,3 +33,22 @@ graph TD
 
     DL --> ASPP(Atrous Spatial Pyramid Pooling)
 ```
+
+# Semantic segmentation 1511.03339
+
+- Multi scale context
+
+    Methods:
+
+    - Skip-net (look like skip layers, blocks)
+    - Share-net (shar weight)
+    - Model Particularly
+        - Attention model
+            - Soft
+            - Self
+            - Hard
+        - Adapt 1412.7062 + shared network
+        - Implement a soft attention model to generalize average- and max-pooling over scales,
+- Deeplab https://phamdinhkhanh.github.io/2020/06/18/DeepLab.html
+    - Atrous Convolution
+    - A soft attention model
